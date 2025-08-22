@@ -1,7 +1,7 @@
 {
-    "name": "MeditationPlus",
+    "name": "Meditation_Plus",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/thunderstore-io",
+    "website_url": "https://github.com/System233/OutwardMod-MeditationPlus",
     "description": "Enables players to sit and recover status, with support for local split-screen and controllers.",
     "dependencies": [
         "BepInEx-BepInExPack_Outward-5.4.19"
