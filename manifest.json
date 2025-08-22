@@ -1,0 +1,9 @@
+{
+    "name": "MeditationPlus",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Enables players to sit and recover status, with support for local split-screen and controllers.",
+    "dependencies": [
+        "BepInEx-BepInExPack_Outward-5.4.19"
+    ]
+}
